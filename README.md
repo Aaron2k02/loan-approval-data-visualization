@@ -2,9 +2,9 @@ Here's the updated README incorporating the new details on Tableau storytelling:
 
 ---
 
-# Home Loan Approval Data Visualization Project
+# Home Loan Approval Data Visualization Project 
 
-This project showcases my proficiency in **Excel**, **SAS Viya**, and **Tableau** through data analysis, visualization, and storytelling, focusing on home loan approval patterns. The goal is to provide actionable insights into the loan approval process while demonstrating my job readiness in the data visualization domain.
+This project showcases my proficiency in **Excel**, **SAS Viya**, and **Tableau** through data analysis, visualization, and storytelling, focusing on home loan approval patterns. The goal is to provide actionable insights into the loan approval process while demonstrating proficiency in the data visualization domain.
 
 [**Project Documentation**](https://www.canva.com/design/DAGdpPSgMR4/HBjTMGZK8_qzRB-9XRT7kg/edit?utm_content=DAGdpPSgMR4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 [**Tableau Public Dashboard**](https://public.tableau.com/app/profile/aaron.chee6960/viz/LoanApprovalAnalysis_17361390901470/Story1?publish=yes)  
